@@ -17,7 +17,7 @@
 	* File uploads: checked
 	* Expire header: checked
 	* File permissions: checked
-11. Go get an SMTP account ([SendGrid](http://sendgrid.com/), [SES](http://aws.amazon.com/ses/)) and configure it in Settings -> Email.
+11. Setup a free SMTP account with ([SendGrid](https://sendgrid.com/user/signup), [SES](http://aws.amazon.com/ses/)) and configure it in Settings -> Email.
 12. Done!
 
 ## Notes
