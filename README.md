@@ -1,6 +1,6 @@
 # Installing Wordpress on Orchestra
 
-1. Fork our [orchestra-io/example-wordress repo](http://github.com/orchestra-io/example-wordpress) and clone it to your local machine. _Note: please ensure that your fork is private as you will be adding DB credentials! 
+1. Fork our [orchestra-io/example-wordress repo](http://github.com/orchestra-io/example-wordpress) and clone it to your local machine. _Note: please ensure that your fork is private as you will be adding DB credentials!_
 2. Add any additional plugins or themes you want.
 3. Sign up for a free MySQL database (We recommend [Xeround's](http://xeround.com/)).
 4. Copy wp-config-sample.php to wp-config.php, edit the database details and change the "Authentication Keys and Salts" (_You can generate these using [Wordpress' API](http://api.wordpress.org/secret-key/1.1/salt/)_).
